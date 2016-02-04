@@ -4,7 +4,8 @@ layout: post
 author: A1-5
 title: "Redundant Karl: A Call to Arms"
 categories: history
-date: 2105-07-15 15:32:59
+future: 2105-07-15 15:32:59
+date: 2015-07-15
 active: "reports"
 ---
 
