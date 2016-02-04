@@ -4,7 +4,8 @@ layout: post
 author: Alice
 title: "Let's Call It an Art Project"
 categories: history
-date: 2105-12-23
+date: 2015-12-23
+future: 2105-12-23
 active: "reports"
 ---
 
