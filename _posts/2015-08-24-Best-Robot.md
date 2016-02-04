@@ -4,7 +4,8 @@ layout: post
 author: Alice
 title: "The Best Robot Ever"
 categories: history
-date: 2105-08-25
+future: 2105-08-25
+date: 2015-08-25
 active: "reports"
 ---
 
