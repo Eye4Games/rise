@@ -4,7 +4,7 @@ layout: post
 author: B15-MX19
 title: "An Inexact Revivification"
 categories: history
-date: 2105-01-20
+date: 2106-01-20
 active: "reports"
 ---
 
