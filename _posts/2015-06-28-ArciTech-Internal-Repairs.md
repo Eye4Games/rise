@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: "Internal Repairs"
-date: 2105-06-28
+future: 2105-06-28
+date: 2015-06-28 
 author: ArciTech
 categories: History
 active: reports
