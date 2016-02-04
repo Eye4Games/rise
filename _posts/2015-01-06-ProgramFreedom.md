@@ -4,7 +4,8 @@ layout: post
 author: Alice
 title: "Programming Freedom"
 categories: history
-date: 2016-01-05
+date: 2016-01-06
+future: 2106-01-06
 active: "reports"
 ---
 
