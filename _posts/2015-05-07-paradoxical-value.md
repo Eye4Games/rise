@@ -2,6 +2,7 @@
 layout: post
 title: "The Paradoxical Value of the Suboptimal Product"
 date: 2015-05-07
+future: 2105-05-07
 author: B15-MX19
 categories: history
 active: reports
