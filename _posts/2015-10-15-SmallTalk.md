@@ -5,6 +5,7 @@ author: Electric Eye
 title: "Small Talk, Big Trouble"
 categories: history
 date: 2015-10-15
+future: 2105-10-15
 active: "reports"
 ---
 
