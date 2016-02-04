@@ -2,7 +2,8 @@
 published: false
 layout: post
 title:  "Call to Arms"
-date:   2105-07-13 15:32:59
+Future:   2105-07-13 15:32:59
+date: 2015-07-13
 author: A1-5
 categories: history
 active: "reports"
