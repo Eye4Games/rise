@@ -2,7 +2,8 @@
 published: true
 layout: post
 title:  "The Perfect Tool"
-date:   2105-06-18 15:32:59
+date:   2015-06-18 15:32:59
+future: 2105-06-18 15:32:59
 author: ArciTech
 categories: history
 active: "reports"
