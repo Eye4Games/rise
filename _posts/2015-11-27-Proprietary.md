@@ -5,7 +5,7 @@ author: B15-MX19
 title: A Proprietary Regard and the Passive Contender
 categories: history
 date: 2015-11-27
-future: 2105-11-27
+future: 2105
 active: "reports"
 ---
 

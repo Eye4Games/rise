@@ -5,7 +5,7 @@ author: Alice
 title: "Let's Call It an Art Project"
 categories: history
 date: 2015-12-23
-future: 2105-12-23
+future: 2105
 active: "reports"
 ---
 

@@ -4,7 +4,7 @@ layout: post
 author: Alice
 title: "Welcome to the Last DVD Store on Earth"
 categories: history
-future: 2105-08-12
+future: 2105
 date: 2015-08-12
 active: "reports"
 ---

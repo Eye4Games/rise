@@ -4,8 +4,8 @@ layout: post
 author: ArciTech
 title: "The Movie Star"
 categories: history
-future: 2105-07-27
-date: 2015-07-2015
+future: 2105
+date: 2015-07-27
 active: "reports"
 ---
 

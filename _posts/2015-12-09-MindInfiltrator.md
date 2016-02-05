@@ -2,10 +2,10 @@
 published: true
 layout: post
 author: B15-MX19
-title: The Mind's Infiltrator
+title: "The Mind's Infiltrator"
 categories: history
 date: 2015-12-09
-future: 2105-12-09
+future: 2105
 active: "reports"
 ---
 

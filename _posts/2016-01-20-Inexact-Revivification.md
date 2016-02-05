@@ -5,7 +5,7 @@ author: B15-MX19
 title: "An Inexact Revivification"
 categories: history
 date: 2016-01-20
-future: 2106-01-20
+future: 2106
 active: "reports"
 ---
 
