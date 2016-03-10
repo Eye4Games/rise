@@ -1,3 +1,4 @@
+---
 published: true
 layout: post
 author: B15-MX19
@@ -6,7 +7,7 @@ categories: history
 future: 2106-03-09
 date: 2016-03-09
 active: "reports"
-
+---
 
 A1-5. A label that captures none of the confidence of her stride, the surging power of her speeches. I cannot compute of another A1 model — of any robot — who could command the world as she does. 
 
