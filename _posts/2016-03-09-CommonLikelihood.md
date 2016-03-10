@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: B15-MX19
-title: "The Commonplace Likelihood of an Uncommon Naature"
+title: "The Commonplace Likelihood of an Uncommon Nature"
 categories: history
 future: 2106-03-09
 date: 2016-03-09
