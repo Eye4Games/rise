@@ -1,8 +1,7 @@
-
 ---
 published: true
 layout: post
-author: Mr. PostmanTM
+author: Mr. Postman™
 title: "Pint-sized Persuasion"
 categories: history
 future: 2106-03-21
