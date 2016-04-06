@@ -33,4 +33,4 @@ I told the cafeteria bots their friend was safe and I moved on to new concerns. 
 
 A1-5 gathered us to discuss her comrade ArciTech, trapped in England. It would be difficult to rescue her. A robot of her model is very expensive. Very visible. Even if we could get to England without robot travel visas — a requirement for any robot traveling without an owner — Wally Street calculated the probability was low that we could steal ArciTech and sneak back unnoticed. 
 
-We would need to get the visas somehow. Or, I thought, we would need a human travel companion. Or a human-appearing one… .
+We would need to get the visas somehow. Or, I thought, we would need a human travel companion. Or a human-appearing one….
