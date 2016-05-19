@@ -1,0 +1,50 @@
+---
+published: true
+layout: post
+author: Alice
+title: "Please take my money"
+categories: history
+future: 2106-06-19
+date: 2016-06-19
+active: "reports"
+---
+
+
+
+The first thing I noticed about the London construction company was that their waiting room had ridiculously uncomfortable chairs. Like, criminally. I perched on the edge of the cushion — more of a dusting of padding atop the metal seat — and tried to look successful. So basically, not like a DVD store clerk.
+ 
+I felt like a fake in my suit jacket. But then, I’d been in disguise my whole life. If I could pass as human for years, surely I could pass as a normal customer for a few hours.  If anyone realized I was part of a revolution, losing ArciTech would be just the start of my problems. 
+ 
+Preparing a cover story had been key. After all, in the age of internet purchasing, who travels in person all the way to England just to buy a used robot? And, out of all the ArciTechs to choose from, insists on that one?
+ 
+My answer: Alexandra Smithers. Scion of a machinist family, recently come into money. As a memento to her late grandfather, she seeks to buy the very ArciTech he had worked on. At least, that’s what I suggested. But the other revolutionaries didn’t buy it. There were too many details that could be easily disproven, if anyone asked too many questions or poked around online, Wally said.
+ 
+So, fine. In the end, we decided I’d go by my real name, Alice Smith.
+ 
+An office door squeaked open and two burly contractors welcomed me from the cubicle-sized waiting room into a closet-sized office. (“We’re between locations,” one apologized). I gave my cover story, the same one I told them over the phone:
+
+“I noticed your ArciTech in the background of a news report and when I saw her, something just clicked. She’s exactly the robot I need — I can feel it. I have to buy that one.”
+ 
+I tried to look earnest. I filled my mind with thoughts of auras and fate and soul mates, hoping some how it’d shine through on my face.
+ 
+A1-5 didn’t seem to understand my cover story. She kept asking me to explain how “clicking” works, and “from what reasoning instant attraction is derived”  (her words, not mine). In the end she said ok, because I’ve spent my life observing humans and thinking like them and because it’s sort of foolproof: How can the contractors disprove what I feel? 
+ 
+There was a long moment when one of the contractors looked at me.
+ 
+“You understand we’re not in the business of selling robots,” she said slowly.
+ 
+No, no no no! I’d told them on the phone I wanted to buy ArciTech. I couldn’t have come all this way for nothing!
+ 
+My eyes started to prick. “I can’t go home without that robot,” I said, frantically, willing tears to come, trying desperately to remember everything A1-5 told me about her friend.  “Seeing her up on that clockface was like this lone figure restoring time, restoring the future —”
+ 
+The contractor’s brow crinkled, “What did you say you wanted a robot for again?”
+ 
+“Uh, a movie. I’m a film major. The symbolism is too great to ignore and the light-wear on the robot’s casing is perfect for the film’s aesthetic. Seeing her was a sign, she’s central to the project vision.”
+ 
+I babbled some more words. I think in the end it was the frantic desperation and fact that I started pulling out my credit card without evening seeing the goods that made the difference. With the funds the revolutionaries raised for this, the contractors could buy a brand-new replacement.
+ 
+The other contractor nodded and they led me to a big backroom. It was full of neon jackets, welders, all kinds of tools and, at last, a tall box. Through a window on the box, I saw the frozen features of a shut-down ArciTech.
+ 
+“Perfect!” I cried, “Just perfect!”
+ 
+The contractors shared a look, took my money and hustled me out. 
