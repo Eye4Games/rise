@@ -9,10 +9,8 @@ date: 2016-05-19
 active: "reports"
 ---
 
-
-
 The first thing I noticed about the London construction company was that their waiting room had ridiculously uncomfortable chairs. Like, criminally. I perched on the edge of the cushion — more of a dusting of padding atop the metal seat — and tried to look successful. So basically, not like a DVD store clerk.
- 
+
 I felt like a fake in my suit jacket. But then, I’d been in disguise my whole life. If I could pass as human for years, surely I could pass as a normal customer for a few hours.  If anyone realized I was part of a revolution, losing ArciTech would be just the start of my problems. 
  
 Preparing a cover story had been key. After all, in the age of internet purchasing, who travels in person all the way to England just to buy a used robot? And, out of all the ArciTechs to choose from, insists on that one?
