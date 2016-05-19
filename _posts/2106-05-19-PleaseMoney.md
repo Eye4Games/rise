@@ -45,4 +45,4 @@ The other contractor nodded and they led me to a big backroom. It was full of ne
  
 “Perfect!” I cried, “Just perfect!”
  
-The contractors shared a look, took my money and hustled me out. 
+The contractors shared a look, took my money, and hustled me out. 
