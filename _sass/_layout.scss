@@ -56,7 +56,7 @@
 //SECTIONS
 //
 //*********************************************************************************ABOUT
-.aboutWrap{
+.aboutWrap, .storyWrap{
 	background: linear-gradient(to bottom, lighten($mainBlack,80%),lighten($mainBlack,70%));
 	border-top: 5px solid rgba(white,.2);
 	padding: 0 15px;
@@ -79,6 +79,12 @@
 		&:last-child{margin: 0;}
 		}
 	}
+.storyText{
+    @extend .aboutRise;
+    text-align: left;
+    p{font-style: italic;}
+    p cite {font-style: normal;}
+    }
 
 //******************************************************************************RISE CALL
 .riseWrap{
