@@ -333,9 +333,14 @@
     @extend %container;
     color: white;
     display: block;
-    font-size: 1.6em;
 	max-width: 1000px;
 	text-align: left;
+	ul, ol, table{
+    	font-size: 1.6em;
+    	line-height: 1.2;
+    	}
+	ul li{list-style-type: disc;}
+	ol li{list-style-type: decimal;}
     }
 
 //
