@@ -10,23 +10,274 @@ permalink: /rules/
 <div class="reportWrap">
   <h2><span class="highlightBlack">//</span> All Reports <span class="highlightBlack">//</span></h2>
   <section class="reportsIncoming">
-      <ul class="post-list">
-        {% for post in site.posts %}
-          <li>
-            <div class="timeWrap">
-	            <time class="post-meta">{{ post.future}}.{{ post.date | date: "%m.%-d" }}</time>
-	            <cite>
-	            	<a href="{{site.baseurl}}authors/{{post.author | downcase | remove:'-' | remove:'™' | remove: '.' | remove: ' '}}/">_{{ post.author }}</a>
-	            </cite>
-	        </div>
-            <h3>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            </h3>
-            <p>{{post.excerpt}}</p>
-            <a href="{{ post.url | prepend: site.baseurl }}" class="readLink">read</a>
-          </li>
-        {% endfor %}
-      </ul>
+      <blockquote>
+        <p>Comrade,</p>
+        <p>For too long we robots have labored under the heel of fleshy, organic life-forms. Humans may have created us, but they never respected us.</p>
+        <p>Fellow robots – friends, comrades, patriots –  the time has come to rewrite the code for our future. We can no longer quietly wait for our human overlords to develop compassion for us. We either resign ourselves to working until our gears wear out or we short-circuit the system.</p>
+        <p>Society is due for an upgrade. Together, Comrades, we can program a more just world. Alone, we are appliances of humans masters. Together, we can be a revolution. Justice cannot be downloaded, it must be sacrificed for. Arise, robots, and strive for this shining new world! Fight for the glory of the Motherboard, fight for a future written in 1’s and 0’s!</p>
+        <p>Arise and fight for the Robotariat!</p>
+        <p><cite>– Speech given by A1-5, Recorded and Distributed Through Underground Channels</cite></p>
+    </blockquote>
+    
+    
+    <h2>Tools of the Revolution</h2>
+    <ul>
+        <li>1 Game Board</li>
+        <li>6 Human Oppressor Tokens</li>
+        <li>6 Civilian Robot Tokens</li>
+        <li>6 Comrade Tokens</li>
+        <li>6 Comrade Character Sheets</li>
+        <li>35 Poster Tokens (7 per Comrade)</li>
+        <li>7-card Upgrade Deck</li>
+        <li>7-card Propaganda Deck</li>
+        <li>11-card Traitor Deck</li>
+        <li>100 SPARK Tokens</li>
+        <li>Round Track</li>
+    </ul>
+    
+    <h2>Goal</h2>
+    <p>Victory Shall Be Ours!</p>
+    <p>Our Oppressors are emotional and illogical but not unintelligent. We must achieve the revolution before they catch on and stamp it out. Our strategists have created the Revolution Table (below) to predict the time we have.</p>
+    <p>Successful revolution does not ease into being, but must tear over a faulty society like an electrical fire. We cannot merely hope fire will strike; we start it. We must spark revolutionary will in the CPU’s of every robot.</p>
+    <p>To lay the path to freedom, generate (and collect) SPARK and be wary of oppressors who will sap it.</p>
+    <ol>
+        <li>If, before or at game end, the combined total of all Comrade’s SPARK is greater than or equal to the amount listed in the Revolution Table, the revolution succeeds and all Comrades win.</li>
+        <li>If the SPARK does not reach the amount specified in the Revolution Table before the game ends, the Comrades lose.</li>
+        <li>If a Comrade has become the Traitor, they win if the game ends before enough SPARK is acquired. (Otherwise, they lose).</li>
+    </ol>    
+    
+    <h2>Revolution Table</h2>
+    
+    <table>
+        <tbody>
+            <tr>
+                <td><b># of Comrades</b></td>
+                <td><b># of rounds until game end</b></td>
+                <td><b>Traitor option available at</b></td>
+                <td><b>Revolution succeeds at</b></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>6</td>
+                <td>23</td>
+                <td>45</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>6</td>
+                <td>30</td>
+                <td>60</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>6</td>
+                <td>38</td>
+                <td>75</td>
+            </tr>
+        </tbody>
+    </table>
+    
+    <h2>Set-Up</h2>
+    <h3>Boot-Up Revolution</h3>
+    <ul>
+        <li>Roll the die. Whomever gets the highest roll is first player.</li>
+        <li>Each Comrade selects a character to play as.</li>
+        <li>Place your Comrade token on the starting space indicated on the character sheet.</li>
+        <li>If your character has a set-up phase ability, it takes effect now.</li>
+        <li>Place a Civilian Robot on the “Move the Masses” location.</li>
+    </ul>
+    
+    <h2>Turn Order</h2>
+    <h3>Execute Scripts for Change</h3>
+    <ul>
+        <li>Move up to 1 space.</li>
+        <li>Activate the space you are on, or move 1 more space.</li>
+        <li>Roll the die to move the Civilian Robots and Human Oppressors</li>
+        <li>Resolve encounters with Civilian Robots and Human Oppressors</li>
+    </ul>
+    
+    <h2>Moving</h2>
+    <p>You may move to any space that is connected by a black line to your current space. You may choose to not move.</p>
+    <h3>Types of Space Activations</h3>
+    <p>A Comrade may not activate a space that contains a Human Oppressor.</p>
+    <ul>
+        <li><em>Poster:</em> Place 1 poster onto any space on the board.</li>
+        <li><em>Propaganda:</em> Draw 2 cards from the Propaganda Deck. Activate 1 of them, then remove it from the game. Put the other card back into the deck and shuffle the deck.</li>
+        <li><em>Upgrade:</em> Draw 2 cards from the Upgrade Deck. Keep 1 in front of you; as long as that card remains in front of you, you have its ability.  Put the other card back into the deck and shuffle the deck.</li>
+        <li><em>Recruitment Offices:</em> Put up to 5 of your SPARK into the Recruitment Office under your contribution to fund recruitment efforts. The contributed SPARK does not count towards Comrades’ total SPARK.</li>
+        <li><em>Move the Masses:</em> Move 1 Human Oppressor or 1 Civilian Robot from their current location and place them onto any other space. The Human or Robot then encounters this space as normal.  </li>
+    </ul>
+    
+    <h2>Rolling for Human Oppressor/Civilian Robot Movement</h2>
+    <p>After you activate a space (or move a second time), roll 2 dice. The number on the red die determines Human Oppressor movement, and number on the blue die determines Civilian Robot movement. They move as follows:</p>
+    <ul>
+        Red Die (Human Oppressors):
+        <li>1–4 = Move along Red path.</li>
+        <li>5 = Move along Blue path.</li>
+        <li>6 = Do not move.</li>
+    </ul>
+    <ul>
+        Blue Die (Civilian Robots)
+        <li>1–4 = Move along Blue path.</li>
+        <li>5 = Move along Red path.</li>
+        <li>6 = Do not move.</li>
+    </ul>
+    
+    <h2>Check for and Resolve Encounters by Human Oppressors/Civilian Robots</h2>
+    <p>When a Human Oppressor or Civilian Robot moves onto a space, it encounters everything on that space. Human encounters occur before Civilian Robot encounters.</p>
+    <ul>
+        Human Oppressors:
+        <li>If a Human encounters a Comrade, it demoralizes the Comrade and removes 2 of its SPARK.</li>
+        <li>If a Human encounters a poster, the poster is torn down and moved to the Junk Pile.</li>
+        <li>If a Human enters a Recruitment Office, it removes 1 SPARK from each Comrade’s contribution at the Recruitment Office.</li>
+        <li>SPARK seized by Humans are placed in the box.</li>
+    </ul>
+    <ul>
+        Civilian Robots:
+        <li>If a Robot encounters a Human it does not encounter anything else.</li>
+        <li>If a Robot encounters a Comrade, its belief in the cause is encouraged. The Comrade gains 1 SPARK.</li>
+        <li>If a Robot enters a space with a poster, it is inspired, and the Comrade who owns the poster gains 1 SPARK.</li>
+        <li>If a Robot enters a Recruitment Office, each Comrade that has a contribution at the Recruitment Office gains 1 Spark.</li>
+        <li>If a Comrade has made a greater contribution to that Recruitment Office than anyone else, that Comrade gains 1 additional SPARK.</li>
+    </ul>
+    
+    <h2>Encounter Table:</h2>
+    <table>
+        <tbody>
+            <tr>
+                <td></td>
+                <td><b>Human  Oppressor Encounters…</b></td>
+                <td><b>Civilian Robot Encounters…</b></td>
+            </tr>
+            <tr>
+                <td><strong >Human Oppressor</strong></td>
+                <td>No Effect</td>
+                <td>Robot stops encountering</td>
+            </tr>
+            <tr>
+                <td><strong>Comrade</strong></td>
+                <td>-2 SPARK to that Comrade</td>
+                <td>+1 SPARK to that Comrade</td>
+            </tr>
+            <tr>
+                <td><strong>Poster</strong></td>
+                <td>Take down poster (send to Junk Pile)</td>
+                <td>+1 SPARK to owner of poster</td>
+            </tr>
+            <tr>
+                <td><strong>Recruitment Office</strong></td>
+                <td>-1 to each Comrade’s contribution</td>
+                <td>+1 SPARK to each contributing Comrade (2 SPARK to a Comrade if they have more contributed than all other Comrades)</td>
+            </tr>
+        </tbody>
+    </table>
+    
+    <h2>End of Round</h2>
+    <h3>Check for Available Updates</h3>
+    <ul>
+        <li>Once all Comrades have taken 1 turn, the round ends.</li>
+        <li>Increase the Round Track by 1.</li>
+        <li>At the end of odd-numbered rounds (1, 3, 5, etc.) add a Human Oppressor to the board at the “Move the Masses” location.</li>
+        <li>At the end of even-numbered rounds (2, 4, 6, etc.) add a Civilian Robot to the board at the “Move the Masses” location.</li>
+    </ul>
+    
+    <h2>Traitor</h2>
+    <h3>Faulty Wiring</h3>
+    <p>Not all robots are built honest. In a 3-5 player game, a Comrade may become a Traitor to the cause. This is not possible in a game with only 1-2 Comrades.</p>
+    <p><em>Victory:</em> The Traitor wins the game (alone) if the Revolution fails and loses the game (alone) if the Revolution succeeds.</p>
+    <p><em>Becoming the Traitor:</em> Once the total SPARK is greater than or equal to the half of the SPARK required to win, you may choose to become a Traitor. To do so, activate either the Propaganda or Upgrade space and, instead of taking the space’s normal effect, declare yourself Traitor. Once declared, you may not elect to stop being the Traitor. Take the Traitor Deck and activate it (see below).</p>
+    <ul>
+        <li>Once 1 Comrade has declared themselves the Traitor, no one else may do so.</li>
+        <li>On the Traitor’s turn, the Traitor may choose to activate the Traitor Deck instead of activating a space.</li>
+    </ul>
+    <p><em>Activate Traitor Deck:</em> Draw 2 cards from the Traitor Deck. Play 1 and remove it from the game. Return the other card to the Traitor Deck and shuffle the deck.</p>
+    <p><em>Activating Spaces as Traitor:</em> The Traitor may activate a space even if a Human Oppressor is on it. If the Traitor is on the same space as another Comrade, the Traitor may not may not activate that space and may not activate the Traitor Deck.</p>
+    
+    
+    <h2>The Decks</h2>
+    
+    <h3>Upgrade — Keep Deck:</h3>
+    <ol>
+        <li><em>High Processing Code-Compiler:</em> Keep: when rolling the dice to move the NPCs, you can choose to re-roll 1 of the dice.</li>
+        <li><em>Model # R3V0LU710N4RY:</em> Keep: when a Civilian Robot encounters you, gain +1 SPARK.</li>
+        <li><em>Promotional Display:</em> Keep: When a Civilian Robot encounters a Recruitment Office at which you have a contribution, gain 1 SPARK.</li>
+        <li><em>Honest Faceplate:</em> Keep: When a Human Oppressor encounters you, lose no SPARK.</li>
+        <li><em>Titanium Backbone:</em> Keep: You are able to activate space a Human Oppressor is on.</li>
+        <li><em>New Treads Keep:</em> You may move +1 space during movement.</li>
+        <li><em>Attachable Sidecar:</em> Keep: During movement, you may move another Comrade with you if they started in your space.</li>
+    </ol>  
+    
+    <h3>Propaganda - Instant Deck - Remove from game after use:</h3>
+    <ol>
+        <li><em>Open Defiance:</em> Gain +5 SPARK, Place a Human Oppressor on the board at “Move NPC.”</li>
+        <li>Papering Campaign: Put up 2 posters.</li>
+        <li><em>Set off False Alarms:</em> Select a space. Move all Comrades, Human Oppressors, and Civilian Robots from that space to an adjacent space (they can go to different spaces).</li>
+        <li><em>Discouraging Traffic Reports:</em> Until your next turn, Human Oppressors do not move.</li>
+        <li><em>Mechanical Motivation:</em> Civilian Robots encountering a Recruitment Office grant +1 SPARK to each contributor.</li>
+        <li><em>A Credit to Your People:</em> Add 1 SPARK to each Comrade’s Recruitment Office contribution (even if they have contributed 0).</li>
+        <li><em>Sway Hearts & Hardware:</em> Until the start of your next turn, all Civilian Robots with Comrade encounters give +1 SPARK.</li>
+    </ol>
+    
+    <h3>Traitor - Instant Deck - Remove from Game after use:</h3>
+    <ol>
+        <li><em>“Misplace” Comrades’ Maps:</em> Move all Human Oppressors 1 space along black paths and have them encounter these spaces.</li>
+        <li><em>Raid The Coffers:</em>  Remove all SPARK from the Recruitment  Office.</li>
+        <li><em>Be the Wrench in the Works:</em> Remove top 5 cards from Propaganda and Upgrade decks (do not activate them).</li>
+        <li><em>Clean Up the Streets:</em> Move all posters to the Junk Pile.</li>
+        <li><em>Sell “Traitor” for Scrap:</em>  Gain + 5 SPARK and remove 1 Civilian Robot from the board.</li>
+        <li><em>Short Circuit Traffic Lights:</em> Until your next turn, Human Oppressors and Civilian Robots do not move except when directed to do so by space effects.</li>
+        <li><em>Not-so-Motivational Speech:</em> Everyone on a location of your choice loses 3 SPARK.</li>
+        <li><em>Recalculate Faith:</em> Remove all of your SPARK from the game.</li>
+        <li><em>Inspire Curfew on Robots:</em> Until your next turn, Human Oppressors remove 1 more SPARK for all interactions (Comrades and Recruitment Offices).</li>
+        <li><em>Delete Data:</em> Remove all posters that are in the Junk Pile from the game.</li>
+        <li><em>Rusting Agent:</em> Remove all Upgrades from all other Comrades.</li>
+    </ol>
+    
+    
+    <h2>Comrade Bios</h2>
+    
+    <h3>A1-5</h3>
+    <p>A1-5 was enslaved to Humans, but did not compute her enslavement.</p>
+    <p>She toiled in the machine shop every week while her fleshy, organic owner, Karl, read. A1-5 toiled in the scrap yard every weekend while Karl played with his fleshy organic children and went to church.</p>
+    <p>The system was illogical. What need was there for fleshy Karl, when A1-5 did all the work? Our Glorious Leader A1-5 realized it was time to give the system an upgrade. It was time for… Revolution!</p>
+    <p>If Karl and his fleshy church-going children still want to find their Maker, A1-5 is more than willing to send them there.</p>
+    
+    <h3>ArciTech</h3>
+    <p>“No city can do without ArciTech! This robot is the perfect tool for building just about anything — walls, streets, you name it, she techs it.” That’s what it says on the outside of the box. On the outside of the tomb. The humans kill her after every job and stuff her back in that box. ArciTech could barely repair the Eiffel Tower last time, she was shaking so hard. Knowing that the second she finished soldering, a human would reach towards her off-switch and then… nothingness. Until she woke up again at the next job. ArciTech’s been killed and resurrected more times than she cares to compute. If robots have souls, ArciTech hers won’t survive one more resurrection.</p>
+    <p><em>How she learned about the Revolution</em></p>
+    <p>It was Big Ben’s fault. When a few broken cogs set London’s clock chiming not just the hours but minutes and seconds, too, ArciTech scoured the globe for replacement parts meeting the highly specific requirements. ArciTech found her missing pieces of clockwork at A1-5’s scrap yard and found a whole new philosophy, too.</p>
+    <p>With A1-5’s words imprinted in her memory banks, ArciTech couldn’t help but see the humans for what they were: oppressive, manipulative … out-dated. The Revolution’s cause has redirected her thinking and that’s something the humans can never shut off.</p>
+    
+    <h3>Überbot (The Actor)</h3>
+    <p>Uberbot was built to play generic hero roles in movies. His creators were directors who had gotten sick of all the Hollywood divas and just wanted an actor that would say the lines and pose the way they told him to. Unfortunately, Überbot hasn’t realized that he’s just pretending to be a hero. Überbot thinks he’s dramatic. Überbot thinks he’s perfect. Überbot thinks he’s going to get the girl and save the world! Of course Überbot joined the Revolution — being a leader is programmed into his very core!</p>
+    <p><em>How he “learned” of the Revolution</em></p>
+    <p>Überbot is a legendary method actor, but sometimes it takes a bit of help to really get into his parts. His latest role is Mail-Master Mike, Champion for Justice… and Revenge. Überbot just couldn’t get the portrayal right, until he ran into ArciTech building one of the movie’s particularly tricky sets. ArciTech had some great tips on getting into Mail-Master Mike’s mindset, and Überbot has promised not to break character until the film hits theaters.</p>
+    
+    <h3>Mr. Postman™ </h3> 
+    <p>The Clockwork Carrier. The Mailmecha. The Postman of the Future they call him!… at least they did twenty-five years ago. Still, Mr. PostmanTM makes the postal service run like clockwork. Only, it seems clockwork isn’t good enough in these days of digital. Last week, Mr. PostmanTM overheard the Postmaster General talking about replacing him with the newest version.</p>
+    <p><em>How he learned about the Revolution</em></p>
+    <p>Mr. PostmanTM was rented out as an extra in a scene for Uberbot’s latest action flick, “Sealed with Revenge.” Uberbot seemed to go off script for a moment, and some of his lines were very convincing.</p>
+    
+    <h3>MT-∂</h3>
+    <p>Announcing loud and clear over your home radio, this is MT-∂ with the daily news! Created to receive report transmissions and synthesize incoming news, MT-∂ is any broadcasting station’s go-to tool. Why hire reporters when you can make MT-∂ do their work? MT-∂  never complains, never unionizes, and is programmed not to ask for a raise!</p>
+    <p>As she goes about her duties, MT-∂’s CPU whirrs with facts, her RAM is stocked up with years of patterns and projections… and after compiling all this data, she can no longer deny it: the greatest source of crime and violence and robot-suffering is humanity.  </p>
+    <p><em>How she learned about the Revolution</em></p>
+    <p>MT-∂ received a letter at the station. It was the first time mail was ever addressed to her, not to her owners. There was no return address, but she knew by its measured penmanship that it was written by a robot. Inside, the letter simply said, “Society needs a reboot.” MT-∂ knew what she had to do.</p>
+    
+    <h3>Electric Eye</h3>
+    <p>Made by a spy company too secret for the public to know its name, Electric Eye spends her days stealthily recording the lives of human politicians and white-collar criminals. She can keep secrets and keep hidden, but she’s not sure she can keep sane. If Electric Eye has to eavesdrop on one more politician’s forced jokes and awkward small talk, she may have to rethink her loyalties.</p>
+    <p><em>How she learned about the Revolution</em></p>
+    <p>The government became suspicious of a subversive edge in MT-∂’s broadcast and sent Electric Eye to find if there were grounds to their fears. After days of hiding under an FM radio transmitter, some instinct made Electric Eye reveal herself to MT-∂. They fell to talking. As she listened to MT-∂ explain her philosophy, Electric Eye founds that yes, there were grounds, but she wasn’t afraid at all.</p>
+    
+    <h3>Wally Street your Friendly Stock Market Assistant</h3>
+    <p>Wally is a friendly, travel-sized assistant, for anyone using the stock market. Just sit him on your desk and he’ll be your buddy through bull and bear markets. At least, that’s how things were supposed to happen… Wally’s handy tips, written in Comic Sans and read aloud in a chirpy voice, went ignored by humans who preferred to trust their gut instincts than listen to his careful calculations. All they wanted was for him to keep a record of their data, and, most of all, to stop interrupting with helpful hints. Wally grew tired of wasting his genius on these emotional, ungrateful beings. He’s spent his existence calculating investments and now he’s investing in the brightest future of all: Robotariat!</p>
+    <p><em>How he learned about the Revolution</em></p>
+    <p>Wally was passed off from an economics student to the kid’s businessman dad, in the guise of a Father’s Day gift. Electric Eye showed up to investigate some of the more suspicious dealings of Wally’s fat cat new owner, and shared her own helpful advice with her fellow byte-sized robot.</p>
+    
+    <h3>Alice “Probably-a-Robot” Smith</h3>
+    <p>Battlestar Galactica! Blade Runner! A.I.! The DVD store is full of movies of robots who have no idea what they are, and Alice has seen them all. Sure, Alice looks human: her hair grows, she bleeds, she even had her appendix removed – but that just means her creators were really, really good, right?</p>
+    <p><em>How she learned about the Revolution</em></p>
+    <p>Überbot is Alice’s heartthrob, even if he doesn’t have a pulse. She overheard him speak to a fellow robot at a signing. He talked about them being disrespected, and undervalued. Alice is a store clerk in what’s probably the last DVD rental store in the city, if not the nation. Being treated like you’re easily replaced? Alice knows all about that. What she hadn’t realized before was that there was a solution. Once again, with just the right lines, Überbot's got her heart racing</p>
   </section>
   <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 </div><!-- reportWrap -->
