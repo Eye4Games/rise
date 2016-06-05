@@ -332,11 +332,10 @@
 .rulesText{
     @extend %container;
     color: white;
+    display: block;
+    font-size: 1.6em;
 	max-width: 1000px;
 	text-align: left;
-	p{
-    	font-size: 1.6em;
-	    }
     }
 
 //
