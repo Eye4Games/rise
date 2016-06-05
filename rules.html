@@ -1,0 +1,32 @@
+---
+layout: page
+title: rules
+subtitle: instruction
+group: "navigation"
+active: "rules"
+permalink: /rules/
+---
+
+<div class="reportWrap">
+  <h2><span class="highlightBlack">//</span> All Reports <span class="highlightBlack">//</span></h2>
+  <section class="reportsIncoming">
+      <ul class="post-list">
+        {% for post in site.posts %}
+          <li>
+            <div class="timeWrap">
+	            <time class="post-meta">{{ post.future}}.{{ post.date | date: "%m.%-d" }}</time>
+	            <cite>
+	            	<a href="{{site.baseurl}}authors/{{post.author | downcase | remove:'-' | remove:'™' | remove: '.' | remove: ' '}}/">_{{ post.author }}</a>
+	            </cite>
+	        </div>
+            <h3>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h3>
+            <p>{{post.excerpt}}</p>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="readLink">read</a>
+          </li>
+        {% endfor %}
+      </ul>
+  </section>
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+</div><!-- reportWrap -->
