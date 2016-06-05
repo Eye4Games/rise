@@ -83,9 +83,9 @@
     @extend .aboutRise;
     text-align: left;
     blockquote{
-        padding-left: 10px;
+        padding-left: 15px;
         border-left: 3px solid rgba($closeBlack,.5);
-        font-style: italic;
+        p{font-style: italic;}
         }
     }
 
@@ -331,6 +331,7 @@
 //******************************************************************************TEAM	
 .teamWrap{
 	background: linear-gradient(45deg, rgba($mainBlack,.5),rgba($closeBlack,.7));
+	overflow: hidden;
 	& > h2{
 		margin: 20px 0 30px;
 		text-align: center;
