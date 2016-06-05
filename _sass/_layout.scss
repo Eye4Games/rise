@@ -328,7 +328,7 @@
 		text-shadow: 0 1px 3px darken($mainBlack,30%);
 		}
 	}
-.crewProfile{
+.crewProfile, .comradeProfile{
 	@extend %container;
 	max-width: 800px;
 	margin-bottom: 30px;
@@ -339,7 +339,7 @@
 		box-shadow: 0 1px 6px rgba($mainRed,.8), 0 4px 4px $mainBlack;
 		}
 	}
-.crewProfileText{
+.crewProfileText, .comradeProfileText{
 	@include flex(1);
 	color: white;
 	padding-left: 20px;
