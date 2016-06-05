@@ -82,8 +82,11 @@
 .storyText{
     @extend .aboutRise;
     text-align: left;
-    p{font-style: italic;}
-    p cite {font-style: normal;}
+    blockquote{
+        padding-left: 10px;
+        border-left: 3px solid rgba($closeBlack,.5);
+        font-style: italic;
+        }
     }
 
 //******************************************************************************RISE CALL
