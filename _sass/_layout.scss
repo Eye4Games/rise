@@ -328,6 +328,18 @@
 	}
 	
 //
+//*****************************************************************************RULES
+.rulesText{
+    @extend %container;
+    color: white;
+	max-width: 1000px;
+	text-align: left;
+	p{
+    	font-size: 1.6em;
+	    }
+    }
+
+//
 //******************************************************************************TEAM	
 .teamWrap{
 	background: linear-gradient(45deg, rgba($mainBlack,.5),rgba($closeBlack,.7));
