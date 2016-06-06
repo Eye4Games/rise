@@ -336,6 +336,10 @@
     display: block;
 	max-width: 1000px;
 	text-align: left;
+	h3{
+    	color: $mainBlack;
+    	font-weight: 500;
+    	}
 	blockquote{
     	padding-left: 15px;
         border-left: 3px solid rgba($closeBlack,.5);
@@ -355,9 +359,12 @@
         width: 100%;
         td{
             background: linear-gradient(45deg, rgba($mainBlack,.2),rgba($closeBlack,.3));
-            border: 2px solid $closeBlack;
+            border: 1px solid $closeBlack;
             padding: 10px;
-            .noLines{border:none;}
+            .noLines{
+                background: none;
+                border:none;
+                }
             }
         }
     .tableHeading{background: linear-gradient(45deg, rgba($mainBlack,.5),rgba($closeBlack,.7));}
