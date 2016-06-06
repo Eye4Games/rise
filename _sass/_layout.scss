@@ -349,6 +349,13 @@
 	ul li{list-style-type: disc;}
 	ol li{list-style-type: decimal;}
     }
+.rulesText{
+    table{
+        border: 1px solid $closeBlack;
+        width: 100%;
+        }
+    .tableHeading{background: linear-gradient(45deg, rgba($mainBlack,.5),rgba($closeBlack,.7));}
+    }
 
 //
 //******************************************************************************TEAM	
