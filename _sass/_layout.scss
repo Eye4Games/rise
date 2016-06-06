@@ -338,7 +338,7 @@
 	text-align: left;
 	h2{text-align: left;}
 	h3{
-    	color: $mainBlack;
+    	color: $mainYellow;
     	font: 400 20px "Oswald";
     	margin: 10px 0 5px;
     	text-transform: uppercase;
@@ -346,7 +346,7 @@
     h2+h3{margin: -20px 0 10px}
     h4{
         color: $mainYellow;
-        font-size: 20px;
+        font-size: 16px;
         font-weight: 700;
         margin-bottom:15px; 
         }
@@ -372,7 +372,7 @@
             background: linear-gradient(45deg, rgba($mainBlack,.2),rgba($closeBlack,.3));
             border: 1px solid $closeBlack;
             padding: 10px;
-            .noLines{
+            &.noLines{
                 background: none;
                 border:none;
                 }
