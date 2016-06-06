@@ -353,8 +353,10 @@
     a{
         border-bottom: 1px solid white;
         color: $mainYellow;
-        padding-bottom: 3px;
+        margin-bottom: 5px;
+        padding-bottom: 2px;
         text-decoration: none;
+        &:hover{border-bottom-color: $closeBlack;}
         }
 	blockquote{
     	padding-left: 15px;
