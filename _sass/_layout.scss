@@ -354,8 +354,10 @@
     table{
         width: 100%;
         td{
-            border: 1px solid $closeBlack;
-            padding: 5px;
+            background: linear-gradient(45deg, rgba($mainBlack,.2),rgba($closeBlack,.3));
+            border: 2px solid $closeBlack;
+            padding: 10px;
+            .noLines{border:none;}
             }
         }
     .tableHeading{background: linear-gradient(45deg, rgba($mainBlack,.5),rgba($closeBlack,.7));}
