@@ -336,9 +336,11 @@
     display: block;
 	max-width: 1000px;
 	text-align: left;
+	h2{text-align: left;}
 	h3{
     	color: $mainBlack;
-    	font-weight: 500;
+    	font-weight: 700;
+    	margin: 10px 0 20px;
     	}
 	blockquote{
     	padding-left: 15px;
@@ -357,6 +359,7 @@
 .rulesText{
     table{
         width: 100%;
+        margin-bottom: 20px;
         td{
             background: linear-gradient(45deg, rgba($mainBlack,.2),rgba($closeBlack,.3));
             border: 1px solid $closeBlack;
