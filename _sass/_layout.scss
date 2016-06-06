@@ -338,18 +338,19 @@
 	text-align: left;
 	h2{text-align: left;}
 	h3{
-    	color: $mainYellow;
+    	color: lighten($mainRed,30%);
     	font: 400 20px "Oswald";
     	margin: 10px 0 5px;
     	text-transform: uppercase;
     	}
     h2+h3{margin: -20px 0 10px}
     h4{
-        color: $mainYellow;
+        color: white;
         font-size: 16px;
         font-weight: 700;
         margin-bottom:15px; 
         }
+    a{color: $mainYellow;}
 	blockquote{
     	padding-left: 15px;
         border-left: 3px solid rgba($closeBlack,.5);
