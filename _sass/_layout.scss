@@ -86,8 +86,8 @@
         padding-left: 15px;
         border-left: 3px solid rgba($closeBlack,.5);
         p{font-style: italic;}
-        cite{margin-top: 10px;}
         }
+    cite{margin-top: 10px;}
     }
 
 //******************************************************************************RISE CALL
@@ -351,12 +351,9 @@
         margin-bottom:15px; 
         }
     a{
-        border-bottom: 1px solid white;
         color: $mainYellow;
-        margin-bottom: 5px;
-        padding-bottom: 2px;
         text-decoration: none;
-        &:hover{border-bottom-color: $closeBlack;}
+        &:hover{color: $closeBlack;}
         }
 	blockquote{
     	padding-left: 15px;
