@@ -360,7 +360,8 @@
     	line-height: 1.2;
     	margin-bottom: 20px;
     	}
-    ul, ol{margin-left: 15px;}
+    ul{margin-left: 15px;}
+    ol{margin-left: 35px;}
 	ul li{list-style-type: disc;}
 	ol li{list-style-type: decimal;}
     }
@@ -370,7 +371,7 @@
         margin-bottom: 20px;
         td{
             background: linear-gradient(45deg, rgba($mainBlack,.2),rgba($closeBlack,.3));
-            border: 1px solid $closeBlack;
+            border: 1px solid rgba(white,.1);
             padding: 10px;
             &.noLines{
                 background: none;
