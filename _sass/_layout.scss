@@ -350,7 +350,12 @@
         font-weight: 700;
         margin-bottom:15px; 
         }
-    a{color: $mainYellow;}
+    a{
+        border-bottom: 1px solid white;
+        color: $mainYellow;
+        padding-bottom: 3px;
+        text-decoration: none;
+        }
 	blockquote{
     	padding-left: 15px;
         border-left: 3px solid rgba($closeBlack,.5);
