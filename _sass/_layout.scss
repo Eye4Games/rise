@@ -341,18 +341,22 @@
         border-left: 3px solid rgba($closeBlack,.5);
         p{font-style: italic;}
 	    }
-	ul, ol, table, p{
-    	font-size: 1.6em;
+	ul, ol, td, p{
+    	font-size: 16px;
     	line-height: 1.2;
     	margin-bottom: 20px;
     	}
+    ul, ol{margin-left: 15px;}
 	ul li{list-style-type: disc;}
 	ol li{list-style-type: decimal;}
     }
 .rulesText{
     table{
-        border: 1px solid $closeBlack;
         width: 100%;
+        td{
+            border: 1px solid $closeBlack;
+            padding: 5px;
+            }
         }
     .tableHeading{background: linear-gradient(45deg, rgba($mainBlack,.5),rgba($closeBlack,.7));}
     }
