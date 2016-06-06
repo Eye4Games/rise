@@ -339,14 +339,16 @@
 	h2{text-align: left;}
 	h3{
     	color: $mainBlack;
-    	font: 400 1.5em "Oswald";
+    	font: 400 20px "Oswald";
     	margin: 10px 0 5px;
+    	text-transform: uppercase;
     	}
-    h2+h3{margin: 5px 0 10px}
+    h2+h3{margin: -20px 0 10px}
     h4{
         color: $mainYellow;
         font-size: 20px;
         font-weight: 700;
+        margin-bottom:15px; 
         }
 	blockquote{
     	padding-left: 15px;
