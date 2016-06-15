@@ -4,8 +4,8 @@ layout: post
 author: B15-MX-19
 title: "The Inevitable Trajectory, Finally Exposed"
 categories: history
-future: 2106-06-16
-date: 2016-06-16
+future: 2106-06-15
+date: 2016-06-15
 active: "reports"
 ---
 As I walk the darkened streets tonight, I keep imaging I see A1-5. Her image drifts across my vision like a screensaver, as though my mind still cannot conceive of my world without her in it. Even when I was sold and sent from my factory boss, I did not experienced loss so keenly rendered.
