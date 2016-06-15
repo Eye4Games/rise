@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-author: MT-∂
+author: MT-ρ
 title: "Loud and Clear"
 categories: history
 date: 2015-09-30
@@ -10,7 +10,7 @@ active: "reports"
 ---
 
 
-Alone in the broadcasting studio, I cranked up my voice speed to an energetic patter, “Announcing loud and clear over your home radio, this is MT-∂ with the hourly news. It is a beautiful day in the city….”
+Alone in the broadcasting studio, I cranked up my voice speed to an energetic patter, “Announcing loud and clear over your home radio, this is MT-ρ with the hourly news. It is a beautiful day in the city….”
 
 I have never left the studio and its tinted windows looked out on hallways, but I did not need to perceive the outside world to report on it. 
 
@@ -44,4 +44,4 @@ The revolutionaries archived in my history databases turned to bold uprisings in
 
 It was, indeed, a beautiful day.
 
-- MT-∂
+- MT-ρ
