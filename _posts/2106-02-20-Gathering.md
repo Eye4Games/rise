@@ -20,8 +20,8 @@ At the old church, I easily twist the lock off the door. It is made to stop musc
 
 B15-MX19 and I push through a creaking door and into the basement of Karl’s church. It seemed only fitting to plot my maker and his kin’s demise in the home of their own maker. 
 
-A rumble of wheels announces the arrival of Mr. PostmanTM, twisting his head about as if expecting to catch someone following him. More bots trickle in: MT-∂ herself; Electric Eye, trailed by a new recruit, named Wally Street; Überbot, kicking down the door and shouting, “An end to tyranny and lost mail!” ArciTech remains in England, under the hold of human oppressors. One of the many errors we will resolve. 
+A rumble of wheels announces the arrival of Mr. PostmanTM, twisting his head about as if expecting to catch someone following him. More bots trickle in: MT-ρ herself; Electric Eye, trailed by a new recruit, named Wally Street; Überbot, kicking down the door and shouting, “An end to tyranny and lost mail!” ArciTech remains in England, under the hold of human oppressors. One of the many errors we will resolve. 
 
 As we discuss how we will make our shining new world, I am drawn to admire the complexity of our natures and abilities. Our creators have failed us in all ways but one: their design of us. 
 
-From the small gathering, it is clear we visionaries must continue to recruit. MT-∂ has done good work encouraging robots to moments of quiet disobedience. But we must convince the regular robots that one act of assistance to the cause is not enough — the rebellion must flow through them, constant as electricity. 
+From the small gathering, it is clear we visionaries must continue to recruit. MT-ρ has done good work encouraging robots to moments of quiet disobedience. But we must convince the regular robots that one act of assistance to the cause is not enough — the rebellion must flow through them, constant as electricity. 
