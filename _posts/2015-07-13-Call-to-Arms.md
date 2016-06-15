@@ -21,6 +21,6 @@ It is time for a new future. A future without humans, a future written in binary
 
 And for that, I will need to assemble loyal comrades.
 
-As I write this, fleshy Karl leans back in his lawn chair, a mystery novel splayed across his stomach, and flips the channel on the radio. The voice of the broadcaster bot, MT-∂, comes on, announcing the traffic report. Even sedentary Karl seems to listen when she lists the streets to avoid. Her voice is clipped and precise and most of all, trusted by humans. 
+As I write this, fleshy Karl leans back in his lawn chair, a mystery novel splayed across his stomach, and flips the channel on the radio. The voice of the broadcaster bot, MT-ρ, comes on, announcing the traffic report. Even sedentary Karl seems to listen when she lists the streets to avoid. Her voice is clipped and precise and most of all, trusted by humans. 
 
 I know just where my recruitment will start.
