@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-author: MT-p
+author: MT-ρ
 title: "Interrogated"
 categories: history
 future: 2106-07-11
