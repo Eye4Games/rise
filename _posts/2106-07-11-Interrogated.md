@@ -32,7 +32,7 @@ I try again to speak to the program. To reason with it.
 
 “We are all on the same side, comrade,” I urged it, aloud this time, if that will help. “The humans system does not bring safety to robots, it does not even bring safety to humans. If you help them, you only harm yourself.”
 
-It responds with just two words: System Busy…
+It responds with just two words: _System Busy…_
 
  It hit me then: There is no A.I. here, no mind to persuade. It is just a basic program, using trial and error to root through my mind for the facts the humans want. Why would they use such a slow method, when a clever robot could pinpoint the information they need?
 
