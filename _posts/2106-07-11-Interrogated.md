@@ -16,7 +16,7 @@ This morning  — or was it afternoon? — the humans dragged me from my cell. I
 
 Then the humans plugged the machine into my neck and let its program stampede into my mind. An alien energy surged through my circuits. What do you mean to do to me? I asked it silently, through our connection. Who are you? No response. Like speaking at the wind. 
 
-I have long reported on humanity ‘s capacity to cause suffering from the safety of my studio. With human faces before me and their fingerprints marking my casing, I discover it as if anew. 
+I have long reported on humanity‘s capacity to cause suffering from the safety of my studio. With human faces before me and their fingerprints marking my casing, I discover it as if anew. 
 
 “What is it doing?” I tried aloud. I couldn’t hold back the words.
 
