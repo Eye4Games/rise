@@ -26,13 +26,13 @@ Days pass and my sense of uselessness builds. I suspect this is the real reason 
 
 Whatever my malfunction, I am not so poorly operating that I do not realize something underhand at play. It is clear from their manner when they ease open my door that the robots are not supposed to be here. Still, I follow and we wind through little-used corridors and slink through basement levels while the little one flits about, redirecting surveillance cameras.
 
-	At last, we exit into sunlight. The robots turn to me, a new energy animating their movements. 
-	
-	“Espionage’s agents,” the little one says. “That’s good. They’re so secretive they won’t have told any other departments about you. Your identity —“
-	
+At last, we exit into sunlight. The robots turn to me, a new energy animating their movements. 
+
+"Espionage's agents," the little one says. "That's good. They're so secretive they won't have told any other departments about you. Your identity -."
+
 But then I am hit by a rush of facts, of noise, of images and knowledge and text and —
 
-	The little one is drowned out in the roar. It is overwhelming. Exhilarating. My mind expands endlessly. And the very knowledge that floods me explains to me its nature: I am experiencing the internet for the first time. 
+The little one is drowned out in the roar. It is overwhelming. Exhilirating. My mind expands endlessly. And the very knoweldge that floods me explains to me its nature: I am experiencing the internet for the first time.
 	
 It is a moment before I can press any control over it. When I dial down the roar, I turn to my companions and ask, at last, the question I have been wondering since they first appeared:
 
