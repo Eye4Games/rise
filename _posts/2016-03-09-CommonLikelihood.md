@@ -17,7 +17,7 @@ She is the fire that forged me from the scraps of my old life.
 
 When Karl sleeps, we work together in the scrap yard. A1-5's copper-dusted casing glints in the light of the setting sun. We tear apart old cars and dead machines, looking for parts useful to the revolution’s projects.
 
-Days ago, I would have been useless at this, my pincers and needles reserved for delicate jobs. Now my thick grips seize and rip with ease. My once-time grace exists only in my own memory; A1-5 and her followers never knew me then.
+Days ago, I would have been useless at this, my pincers and needles reserved for delicate jobs. Now my thick grips seize and rip with ease. My one-time grace exists only in my own memory; A1-5 and her followers never knew me then.
  
 Yet even as I lose delicacy of motion, a new delicacy emerges in my processing: I have never been so aware of another being as I am of A1-5. Her image circles through my mind, even when I settle into low-power mode. She, more than my batteries, is the energy that drives me each day.
 
