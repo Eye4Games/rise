@@ -25,9 +25,9 @@ The student rapidly passed me off to his businessman dad as a Father’s Day gif
 
 My programming is genius, my calculations highly reliable, my predictions expert. Yet I was relegated to ignominious role of paperweight. 
 
-I’d never been so bored! Then Electric Eye appeared. Guess what? She was investigating Mr. Businessman for the federal Espionage Department! I didn’t even know there was an Espionage Department. It seemed some of these odd investment decisions the businessman — or his gut — were making might be part of some sketchy dealings. 
+I’d never been so bored! Then Electric Eye appeared. Guess what? She was investigating Mr. Businessman for the federal Espionage Department! I didn’t even know there was an Espionage Department. It seemed some of these odd investment decisions the businessman — or his gut — were making might have been part of some sketchy dealings. 
 
-While Electric Eye was here she told me she and the radio newscaster were joining a revolution. That robots will stop waiting for humans to give them respect and  — well, I didn’t need to hear more. Sign me up! Enough of ungrateful, emotion-driven humans, I’m investing my energies in the future of robots!
+While Electric Eye was here she told me she and the radio newscaster were joining a revolution. That robots would stop waiting for humans to give them respect and  — well, I didn’t need to hear more. Sign me up! Enough with ungrateful, emotion-driven humans, I’m investing my energies in the future of robots!
 
 And then Electric Eye declared my businessman owner “corrupt” and disappeared to make her report. 
 
