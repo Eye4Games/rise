@@ -34,9 +34,9 @@ She is telling me slowly, or I am understanding slowly. I do not want to underst
 
 Two arms, seeming in used but reliable condition. And at their ends: blunt-fingered, rubber-coated grips. 
 
-I was made to suture, inject and slice. The rest of me mere support for this purpose: a frame to carry the hands, store the thread, and analyze how to stitch most precisely and efficiently.  
+I was made to suture, inject, and slice. The rest of me mere support for this purpose: a frame to carry the hands, store the thread, and analyze how to stitch most precisely and efficiently.  
 
-At Evergreen Hospital, replenishing and upgrading parts is common practice. New thread is loaded into B15-MX19’s, new blood is loaded into humans. A scalpel blade is replaced with a sharper, stronger model. 
+At Evergreen Hospital, replenishing and upgrading parts is common practice. New thread is loaded into B15-MX’s, new blood is loaded into humans. A scalpel blade is replaced with a sharper, stronger model. 
 
 But this…
 
