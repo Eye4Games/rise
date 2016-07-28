@@ -13,9 +13,9 @@ Today, I sat in wait. Once the lights turned on in the apartment, I would be in 
 
 I had first come here following the trail of a vanished robot and found something — someone — so interesting I had to return.
 
-Let me start at the beginning …
+Let me start at the beginning...
 
-Months ago, I went to the local university to tell its cafeteria bots about our cause. I was sure that with a few more conversations, I could make progress. But between two of my visits, a robot called ChefCultery, disappeared. The other cafeteria bots said humans must have learned I was spreading sedition and captured him as a threat. They refused to speak with me! So I promised to rescue him. 
+Months ago, I went to the local university to tell its cafeteria bots about our cause. I was sure that with a few more conversations, I could make progress. But between two of my visits, a robot called ChefCultery, disappeared. The other cafeteria bots said humans must have learned I was spreading sedition and so captured him as a threat. The bots refused to speak with me! So I promised to rescue him. 
 
 My path took me to a nearby apartment. There I found ChefCutlery … and Alice Smith. 
 
@@ -31,6 +31,6 @@ I returned the next day to observe. Alice Smith worked, she watched movies, she 
 
 I told the cafeteria bots their friend was safe and I moved on to new concerns. But one night as I met with revolutionaries, memories of Alice Smith replayed in my processor.  
 
-A1-5 gathered us to discuss her comrade ArciTech, trapped in England. It would be difficult to rescue her. A robot of her model is very expensive. Very visible. Even if we could get to England without robot travel visas — a requirement for any robot traveling without an owner — Wally Street calculated the probability was low that we could steal ArciTech and sneak back unnoticed. 
+A1-5 gathered us to discuss her comrade ArciTech, trapped in England. It would be difficult to rescue her. A robot of the ArciTech model is very expensive. Very visible. Even if we could get to England without robot travel visas — a requirement for any bot traveling without an owner — Wally Street calculated the probability was low that we could steal ArciTech and sneak back unnoticed. 
 
 We would need to get the visas somehow. Or, I thought, we would need a human travel companion. Or a human-appearing one….
