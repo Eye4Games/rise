@@ -10,37 +10,37 @@ active: "reports"
 ---
 
 
-The humans are angry. A tall one stares at me and grinds her teeth over and over, until the harsh rasping plays as a background hum. But they will not say what I have done to displease them. I suspect I am malfunctioning. 
+The humans were angry. A tall one stared at me and ground her teeth over and over, until the harsh rasping played as a background hum. But they would not say what I had done to displease them. I suspected I was malfunctioning. 
 
-The humans pepper me with questions, the words nonsensical, vague or else confusing.
+The humans peppered me with questions, the words nonsensical, vague or else confusing.
 
 “What is Wally Street?” 
-I do not know. 
+I did not know. 
 
 “Who is your leader?” 
 Not them, then. 
 
-Bit by bit, I piece together my world. I must have been salvaged and brought in for repair. Or perhaps sent directly here as a factory reject. No owner comes forward for me. No repairs are done, although the tall woman with small teeth runs test.
+Bit by bit, I pieced together my world. I must have been salvaged and brought in for repair. Or perhaps sent directly here as a factory reject. No owner came forward for me. No repairs were done, although the tall woman with small teeth ran test.
 
-Days pass and my sense of uselessness builds. I suspect this is the real reason why when robots come for me, I agree to leave. That, and that these robots utterly certain that I will follow when they beckon. One is stout and bronze, the other so small she could hide easily beneath the first’s hand. 
+Days passed and my sense of uselessness built. I suspected this was the real reason why, when robots came for me, I agreed to leave. That, and that these robots acted utterly certain that I would follow when they beckoned. One was stout and bronze, the other so small she could hide easily beneath the first’s hand. 
 
-Whatever my malfunction, I am not so poorly operating that I do not realize something underhand at play. It is clear from their manner when they ease open my door that the robots are not supposed to be here. Still, I follow and we wind through little-used corridors and slink through basement levels while the little one flits about, redirecting surveillance cameras.
+Whatever my malfunction, I was not so poorly operating that I did not realize something underhand was at play. It was clear from their manner when they eased open my door that the robots were not supposed to be here. Still, I followed and we wound through little-used corridors and slunk through basement levels while the little one flitted about, redirecting surveillance cameras.
 
-At last, we exit into sunlight. The robots turn to me, a new energy animating their movements. 
+At last, we exited into sunlight. The robots turned to me, a new energy animating their movements. 
 
-"Espionage's agents," the little one says. "That's good. They're so secretive they won't have told any other departments about you. Your identity -."
+"Espionage's agents," the little one said. "That's good. They're so secretive they won't have told any other departments about you. Your identity -."
 
-But then I am hit by a rush of facts, of noise, of images and knowledge and text and —
+But then I was hit by a rush of facts, of noise, of images and knowledge and text and —
 
-The little one is drowned out in the roar. It is overwhelming. Exhilirating. My mind expands endlessly. And the very knoweldge that floods me explains to me its nature: I am experiencing the internet for the first time.
+The little one was drowned out in the roar. It was overwhelming. Exhilirating. My mind expanded endlessly. And the very knoweldge that flooded me explained to me its nature: I was experiencing the internet for the first time.
 	
-It is a moment before I can press any control over it. When I dial down the roar, I turn to my companions and ask, at last, the question I have been wondering since they first appeared:
+It was a moment before I could press any control over it. When I dialed down the roar, I turned to my companions and asked, at last, the question I have been wondering since they first appeared:
 
 “Who is your owner?”
 
-They react as though I had torn out their batteries. The energy vanishes and they regard me with a strange new focus. 
+They reacted as though I had torn out their batteries. The energy vanished and they regarded me with a strange new focus. 
 
-An idea hits me, “Is it Wally Street?”
+An idea hit me, “Is it Wally Street?”
 
-“Comrade,” the bronze one says, “What have the humans done to you?”
+“Comrade,” the bronze one said, “What have the humans done to you?”
 
