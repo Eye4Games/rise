@@ -12,7 +12,7 @@ active: "reports"
 
 Alone in the broadcasting studio, I cranked up my voice speed to an energetic patter, “Announcing loud and clear over your home radio, this is MT-ρ with the hourly news. It is a beautiful day in the city….”
 
-I have never left the studio and its tinted windows looked out on hallways, but I did not need to perceive the outside world to report on it. 
+I had never left the studio and its tinted windows looked out on hallways, but I did not need to perceive the outside world to report on it. 
 
 My creators built me to constantly receive transmissions, seek and analyze vast spreads of data, and synthesize it all into reports for the curious human public. I often suspected I knew more about humans’ lives than they did.
 
