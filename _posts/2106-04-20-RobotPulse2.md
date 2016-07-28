@@ -10,7 +10,7 @@ active: "reports"
 ---
 
 
-Today I returned to Alice Smith’s apartment. If she is a one of us, let her prove it. I placed myself beside the toaster and waited.
+Today I returned to Alice Smith’s apartment. If she is one of us, let her prove it. I placed myself beside the toaster and waited.
 
 The light in the apartment flickered on. I heard the sound of a body thump against the door, and then a figure entered.
 
