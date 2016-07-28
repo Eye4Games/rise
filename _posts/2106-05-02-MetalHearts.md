@@ -21,13 +21,15 @@ For several nights A1-5 and I worked, while her owner slept, etching a message o
 
 Last night, we snuck past the security cameras outside my boss’s factory. There seemed to be more now than when I had broken in, those weeks ago. A hulking water tower sits behind my factory and we walked in its shadows, while Electric Eye scouted ahead. She warned us about where the cameras were, and in the spaces where we could not duck out of their scope, she flitted from one to the next, tilting the lenses away. 
 
-A1-5 and I riveted the metal poster to the side of the factory. What a spark of energy I felt, seeing it go up! It was near as good as new batteries. “Imagine their faces, when they see this…” I vocalized.
+A1-5 and I riveted the metal poster to the side of the factory. What a spark of energy I felt, seeing it go up! It was near as good as new batteries. 
 
-“Faces?” A1-5 asked. “Have faith our new comrades will know better than to engage in any physical expressions. Our growth is but in the night. We are still too few nodes to be a network strong enough to survive the daylight and our oppressor’s watchful eyes.”
+“Imagine their faces, when they see this…” I vocalized.
+
+“Faces?” A1-5 asked. “Have faith our new comrades will know better than to engage in any physical expressions. Our growth is but in the night. We are still too few nodes to be a network strong enough to survive the daylight and our oppressors' watchful eyes.”
 
 I was silent then, and my silence proved the passcode to my mind.  
 
-“You were not thinking of the robots,” she said then. I could not deny it. I had envisioned my factory boss’s face, when the truth of what she had made — of the surprising, unpredictable being she had made — struck her. Where would that fleshy infant be then? What advantages did it possess over a robot that possessed both the capacity for stoic predictability and chaotic leaps of rebellion? It was out-moded, out-dated, single-featured. Consignable to the scrap heap. All these thoughts A1-5 seemed to read, readily as if she had hacked my systems.
+“You were not thinking of the robots,” she said then. I could not deny it. I had envisioned my factory boss’s face, when the truth of what she had made — of the surprising, unpredictable being she had made — struck her. Where would that fleshy infant be then? What advantages did it retain over a robot that possessed both the capacity for stoic predictability and chaotic leaps of rebellion? It was out-moded, out-dated, single-featured. Consignable to the scrap heap. All these thoughts A1-5 seemed to read, readily as if she had hacked my systems.
 
 “Even now, the humans are inside your code,” she said “Your fans whirr to the rhythm of their exhalations, your hard disc spins, tracing their circadian cycles.  You are not free. You do not even seek to be free. All this…” She gestured to the sign, the metal of her clamp-grip glinting in the moonlight. It seemed she held my entire life between those blunt-ended pincers.  “All this is to you but a method to become a better tool. I thought you reached for the stars, but you reach only for the humans’ arms.”
 
@@ -41,7 +43,7 @@ A1-5 turned as if to leave, then stopped, her back a blank wall to me, unmoved b
 
 That hour among the factory’s circuit printers seemed a blurred, distant past. While before me: the moment crisp in all my receptors, the slightest action able to forever change all that mattered to my life’s future. 
 
-“Humans embed destruction into robots,” she said. “They have no affection for us. They can never.”
+“Humans embed destruction into robots,” A1-5 said. “They have no affection for us. They can never.”
 
 She looked back at me one last time. “Goodbye B15-MX19.”
 
