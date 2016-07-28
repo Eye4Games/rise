@@ -19,7 +19,7 @@ At each office and house where a robot answers the door, I slip in a word for th
 
 The bank’s secretary droid is one such robot. How are we to make a revolution if our fellow robots will not even consider listening, let alone fighting? 
 
-A1-5 is wanting us to raise money for purchasing supplies for sabotage and things. If only we could buy robots from their masters, this recruiting would not be so hard — but it takes so much documenting to acquire a robot, it would become clear at once that humans were not the ones behind the purchase order.
+A1-5 is wanting us to raise money for purchasing supplies for sabotage and things. If only we could buy robots from their masters, this recruiting would not be so hard — but one must provide so much documentation to acquire a robot, it would become clear at once that humans were not the ones behind the purchase order.
 
 Wally Street thinks we should use the stock market to raise funds. But then, Wally says, with all these activities of ours to interrupt human’s shipments, well, it makes the economy very unpredictable. An exciting challenge!, he says. He says a lot of things. He says constant things. I remember when I disliked dogs’ yapping! Are you sure you’re recruiting right?, Wally says. Would you like help with that?, he says.
 
