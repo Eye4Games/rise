@@ -29,8 +29,8 @@ I realized what I had discovered: a humanoid who insisted she was a robot.
 
 I returned the next day to observe. Alice Smith worked, she watched movies, she stared in the mirror for long moments and pulled at her skin and ran magnets over her arms. Most of all, I watched how she took care of ChefCutlery. How she tried to teach him that he could choose how to live.
 
-I told the cafeteria bots their friend was safe and I moved on to new concerns. But one night as I met with revolutionaries, memories of Alice Smith replayed in my processor.  
+I told the cafeteria bots their friend was safe and I moved on to new concerns. But last night, as I met with revolutionaries, memories of Alice Smith replayed in my processor.  
 
-A1-5 gathered us to discuss her comrade ArciTech, trapped in England. It would be difficult to rescue her. A robot of the ArciTech model is very expensive. Very visible. Even if we could get to England without robot travel visas — a requirement for any bot traveling without an owner — Wally Street calculated the probability was low that we could steal ArciTech and sneak back unnoticed. 
+A1-5 had gathered us to discuss her comrade ArciTech, trapped in England. It would be difficult to rescue her. A robot of the ArciTech model is very expensive. Very visible. Even if we could get to England without robot travel visas — a requirement for any bot traveling without an owner — Wally Street calculated the probability was low that we could steal ArciTech and sneak back unnoticed. 
 
 We would need to get the visas somehow. Or, I thought, we would need a human travel companion. Or a human-appearing one….
