@@ -17,7 +17,7 @@ I must get the revolution finished before the humans are finished with me.
 
 At each office and house where a robot answers the door, I slip in a word for the revolution. Within the pages of catalogues I hide notes with the coordinates of our meeting place. Some of these civilian robots nod; some refuse to accept the papers, lest their humans find out. 
 
-The bank’s secretary droid is one such robot. How are we to make a revolution if our fellow robots will not even consider listening, let alone fighting? 
+The bank’s secretary android is one such robot. How are we to make a revolution if our fellow robots will not even consider listening, let alone fighting? 
 
 A1-5 is wanting us to raise money for purchasing supplies for sabotage and things. If only we could buy robots from their masters, this recruiting would not be so hard — but one must provide so much documentation to acquire a robot, it would become clear at once that humans were not the ones behind the purchase order.
 
