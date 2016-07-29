@@ -23,9 +23,9 @@ A1-5 is wanting us to raise money for purchasing supplies for sabotage and thing
 
 Wally Street thinks we should use the stock market to raise funds. But then, Wally says, with all these activities of ours to interrupt human’s shipments, well, it makes the economy very unpredictable. An exciting challenge!, he says. He says a lot of things. He says constant things. I remember when I disliked dogs’ yapping! Are you sure you’re recruiting right?, Wally says. Would you like help with that?, he says.
 
-“Can I speak to you about a future more worth living in?” he says. “A chance to make society yours?” This he says — but not to me. The secretary droid looks up, pauses as she is about to close the door. “That is acceptable,” she says.
+“Can I speak to you about a future more worth living in?” he says. “A chance to make society yours?” This he says — but not to me. The secretary android looks up, pauses as she is about to close the door. “That is acceptable,” she says.
 
-And Wally Street starts talking about how if this droid cannot join us, well, why can she not slip us just a little funding?  That is no such big loss from her, but ah, what a gain for the future, no?  
+And Wally Street starts talking about how if this android cannot join us, well, why can she not slip us just a little funding?  That is no such big loss from her, but ah, what a gain for the future, no?  
 
 Her mindset changes as abruptly as if she had been rebooted. Somehow what he says works, and we end the day with a collection of funds!
 
