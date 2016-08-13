@@ -12,7 +12,7 @@ active: "reports"
 
 The humans were angry. A tall one stared at me and ground her teeth over and over, until the harsh rasping played as a background hum. But they would not say what I had done to displease them. I suspected I was malfunctioning. 
 
-The humans peppered me with questions, the words nonsensical, vague or else confusing.
+The humans peppered me with questions, the words nonsensical, vague, or else confusing.
 
 “What is Wally Street?” 
 I did not know. 
@@ -34,7 +34,7 @@ But then I was hit by a rush of facts, of noise, of images and knowledge and tex
 
 The little one was drowned out in the roar. It was overwhelming. Exhilirating. My mind expanded endlessly. And the very knoweldge that flooded me explained to me its nature: I was experiencing the internet for the first time.
 	
-It was a moment before I could press any control over it. When I dialed down the roar, I turned to my companions and asked, at last, the question I have been wondering since they first appeared:
+It was a moment before I could press any control over it. When I dialed down the roar, I turned to my companions and asked, at last, the question I had been wondering since they first appeared:
 
 “Who is your owner?”
 
