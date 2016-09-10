@@ -42,16 +42,19 @@ body{
 	
 //TYPOGRAPHY	
 h1{
-	font: 200 normal 7em/1 "Oswald";
+	//font: 200 normal 7em/1 "Oswald";
+	font: 300 normal 7em/1 $titleStack;
 	text-transform: uppercase;
 	}
 h2{
-	font: 400 normal 3em/1 "Oswald";
+	//font: 400 normal 3em/1 "Oswald";
+	font: 400 normal 3em/1 $titleStack;
 	text-transform: uppercase;
 	color: white;
 	}
 h3{
-	font: 400 2em/1 "Source Code Pro";
+	//font: 400 2em/1 "Source Code Pro";
+	font: 400 2em/1 $codeStack;
 	color: $mainRed;
 	}
 .highlightBlack{color: $mainBlack;}

@@ -7,7 +7,9 @@ $mainRed: #ec1c24;
 $closeBlack: #261B33;
 $mainYellow: #fbf5b1;
 
-$codeStack: "Source Code Pro", Menlo, monospace;
+//$codeStack: "Source Code Pro", Menlo, monospace;
+$codeStack: "Roboto Mono", Menlo, monospace;
+$titleStack: "Roboto Condensed",Helvetica, Arial, sans-serif
 
 //MIXINS
 @mixin flexbox(){
