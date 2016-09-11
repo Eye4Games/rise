@@ -48,11 +48,11 @@ permalink: /
 </div><!-- riseWrap -->
 
 <div class="reportWrap">
-  <h2><span class="highlightBlack">//</span> Latest Report <span class="highlightBlack">//</span></h2>
-  <h3 class="updateSchedule">updates every week!</h3>
+  <h2><span class="highlightBlack">//</span> Reports <span class="highlightBlack">//</span></h2>
+  <h3 class="updateSchedule">start from the beginning</h3>
   <section class="reportsIncoming">
       <ul class="post-list">
-        {% for post in site.posts limit:1 %}
+        {% for post in site.posts reversed limit:1 %}
           <li>
             <div class="timeWrap"><time class="post-meta">{{ post.future }}.{{ post.date | date: "%m.%-d" }}</time><cite><a href="authors/{{post.author | downcase | remove:'-' | remove:'™' | remove: '.' | remove: ' '}}/">_{{ post.author }}</a></cite></div>
             <h3>
