@@ -52,7 +52,7 @@ permalink: /
   <h3 class="updateSchedule">start from the beginning</h3>
   <section class="reportsIncoming">
       <ul class="post-list">
-        {% for post in site.posts reversed limit:1 %}
+        {% for post in site.posts offset:32 limit:1 %}
           <li>
             <div class="timeWrap"><time class="post-meta">{{ post.future }}.{{ post.date | date: "%m.%-d" }}</time><cite><a href="authors/{{post.author | downcase | remove:'-' | remove:'™' | remove: '.' | remove: ' '}}/">_{{ post.author }}</a></cite></div>
             <h3>
