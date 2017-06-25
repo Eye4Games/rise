@@ -124,6 +124,8 @@
 	
 //EMAIL FORM
 .riseForm{
+    margin: 0 auto;
+    padding: 10px 0;
 	label{
 		position: absolute;
 		width: 1px;
@@ -164,7 +166,14 @@
 			}
 		&:hover::after{border-color: saturate($mainRed,15%) transparent transparent saturate($mainRed,15%);}	
 		}
+    a.button{
+        @include flex(1 100%);
+        color: white;
+    	padding: 0 10px;
+    	text-decoration: none;
+        }
 	.button{
+    	//orig
 		-webkit-appearance: none;
 		background: $mainRed;
 		border:none;
