@@ -169,6 +169,7 @@
     a.button{
         @include flex(1 100%);
         color: white;
+        display: flex;
     	padding: 16.5px 10px;
     	text-decoration: none;
         }
