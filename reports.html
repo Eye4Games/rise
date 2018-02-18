@@ -1,7 +1,7 @@
 ---
 layout: page
 title: reports
-subtitle: new from the front
+subtitle: news from the front
 group: "navigation"
 active: "reports"
 permalink: /reports/
@@ -11,7 +11,7 @@ permalink: /reports/
   <h2><span class="highlightBlack">//</span> All Reports <span class="highlightBlack">//</span></h2>
   <section class="reportsIncoming">
       <ul class="post-list">
-        {% for post in site.posts limit:4 %}
+        {% for post in site.posts offset:32 limit:4 %}
           <li>
             <div class="timeWrap">
 	            <time class="post-meta">{{ post.future}}.{{ post.date | date: "%m.%-d" }}</time>
@@ -26,7 +26,7 @@ permalink: /reports/
             <a href="{{ post.url | prepend: site.baseurl }}" class="readLink">read</a>
           </li>
         {% endfor %}
-        <a href="https://www.amazon.com/Glory-Motherboard-Rise-Robotariat/dp/1977871070" class="allPosts">read the rest of the story</a>
+        <a href="https://www.amazon.com/Glory-Motherboard-Rise-Robotariat/dp/1977871070" class="allPosts">read the rest of the story <img src="" alt="" /></a>
       </ul>
   </section>
   <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
