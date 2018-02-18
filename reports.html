@@ -11,7 +11,7 @@ permalink: /reports/
   <h2><span class="highlightBlack">//</span> All Reports <span class="highlightBlack">//</span></h2>
   <section class="reportsIncoming">
       <ul class="post-list">
-        {% for post in site.posts reversed %}
+        {% for post in site.posts reversed limit:4 %}
           <li>
             <div class="timeWrap">
 	            <time class="post-meta">{{ post.future}}.{{ post.date | date: "%m.%-d" }}</time>
@@ -27,6 +27,7 @@ permalink: /reports/
           </li>
         {% endfor %}
       </ul>
+      <a href="https://www.amazon.com/Glory-Motherboard-Rise-Robotariat/dp/1977871070" class="allPosts">read the rest of the story</a>
   </section>
   <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 </div><!-- reportWrap -->
